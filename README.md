@@ -13,3 +13,5 @@ The design of this project is inspired by the calculator in Apple Phones.
 This calculator performs simple calculations like Addition, Subtraction , Multiplication , Division and Modulo.
 The logic is implemented using OOP Concepts.
 
+## Live Website
+[Click here](https://simple-calculate.netlify.app/)
